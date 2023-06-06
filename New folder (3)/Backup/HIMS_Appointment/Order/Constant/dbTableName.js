@@ -1,0 +1,12 @@
+const order = 'order'
+const vital = 'vital'
+const users = 'users'
+const roleMaster = 'roleMaster'
+const tenant = 'tenant'
+const consumerProfileHistory = 'consumer_profile_history'
+const consumerProfile = 'consumer_profile'
+const consumerProfileMaster = 'consumer_profile_master'
+const specialty_master = 'specialty_master'
+const doctor_specialty = "doctor_specialty"
+const doctor_order = 'Doctor_order'
+module.exports = { order, vital, users, roleMaster, tenant, specialty_master, doctor_specialty, consumerProfileHistory, consumerProfile, consumerProfileMaster, doctor_order }
